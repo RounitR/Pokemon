@@ -12,10 +12,7 @@ A lightweight web application built with ReactJS that displays a list of Pokémo
 
 ## 🚀 Live Demo
 
-[Click here to view the app live](#)  
-(*Replace `#` with the link to your deployed app, e.g., on Vercel, Netlify, or GitHub Pages.*)
-
-## 📸 Screenshots
+https://pokemon-gamma-jade.vercel.app
 
 ### Pokémon Cards
 ![Pokemon Cards](#)  
