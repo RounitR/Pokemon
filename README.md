@@ -34,6 +34,30 @@ Before you begin, ensure you have the following installed:
 ### *Installation*
 1.⁠ ⁠Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/RounitR/Pokemon.git]
+   git clone https://github.com/RounitR/Pokemon.git
+```
+2.	Navigate to the project directory:
+
+```bash
+   cd Pokemon
+```
+3.	Install all dependencies:
+```bash
+npm install
+```
+4.  Start the development server with the following command:
+```bash
+npm run dev
+```
+5. By default, Vite will start the server at:
+
+http://localhost:5173
+
+Important Note : Due to unforseen reasons my own laptop was not with me that's why i have to use my friends laptop and upload the file from it, If you see a another contributor that is because i logined my github and pushed the file from my friens laptop. All the code is done by me.
+
+
+
+   
+
 
 
