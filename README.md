@@ -6,7 +6,6 @@ A lightweight web application built with ReactJS that displays a list of Pokémo
 
 - Fetches Pokémon data dynamically from the Pokémon API.
 - Displays Pokémon cards with names and images.
-- Implements skeleton loaders for a smooth loading experience.
 - Fully responsive design for mobile and desktop views.
 - Built using modern ReactJS practices.
 
@@ -15,21 +14,26 @@ A lightweight web application built with ReactJS that displays a list of Pokémo
 https://pokemon-gamma-jade.vercel.app
 
 ### Pokémon Cards
-![Pokemon Cards](#)  
-(*Add screenshots of your app here.*)
+![Pokemon Cards](https://github.com/RounitR/Pokemon/blob/main/demoimage.jpeg)  
 
-### Skeleton Loader
-![Skeleton Loader](#)
+
 
 ## 🧰 Tech Stack
 
-- **Frontend**: ReactJS, CSS
+- **Frontend**: ReactJS , CSS
 - **API**: [Pokémon API](https://pokeapi.co/)
 - **Build Tool**: Vite
 
-## 📝 How to Use
+## 🛠 How to Use
 
-1. Clone the repository:
+### *Prerequisites*
+Before you begin, ensure you have the following installed:
+•⁠  ⁠*Node.js* (v14 or higher recommended)
+•⁠  ⁠*npm* or *yarn* for dependency management
+
+### *Installation*
+1.⁠ ⁠Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/YourUsername/Pokedex-Lite.git
-   cd Pokedex-Lite
+   git clone [https://github.com/RounitR/Pokemon.git]
+
+
